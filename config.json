@@ -1,0 +1,5 @@
+{
+  "bankroll": 100000,
+  "min_profit_pct": 0.5,
+  "interval_minutes": 5
+}
